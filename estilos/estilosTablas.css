@@ -1,0 +1,32 @@
+﻿body {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+th{
+    background-color: #f61e1e;
+    color: #FFF;
+}
+
+tr{
+    font-size: 11px;
+}
+
+tr:nth-child(odd){
+    background-color: #c8bcbc;
+}
+
+tr:nth-child(even){
+    background-color: #f28d8d;
+}
+
+.formulario{
+    box-shadow: #808080 5px 5px;
+    padding: 9px;
+}
+
+.formulario, .formulario td{
+    background-color: #f61e1e;
+    color: #FFF;
+    
+}
+
